@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 5px;
+    
+}
+body{
+  
+    background-color: black;
+}
+
+.main{
+    background-image: url('1.jpg');
+    height: 1000px;
+    margin-left: 400px;
+    width: 370px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 4px;
+
+}
+
+h1{
+
+    font-size: 60px;
+    
+}
+
+#left {
+    text-align: start !important;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+    background-color: yellow;
+}
